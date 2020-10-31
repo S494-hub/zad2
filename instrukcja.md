@@ -23,3 +23,13 @@ Zadania do wykonania na punkty..................................................
 Zadanie 1 – 2pkt............................................................................................................................
 Zadanie 2 – 4pkt............................................................................................................................
 Zadanie 3 - 4pkt.............................................................................................................................
+
+## Wstęp
+
+Obecnie powszechnie wykorzystuje się języju ze znacznikiem do opisania dodatkowych informacji
+umieszczanie w plikach tekstowych. Z pośród najbardziej popularnych można wspomnieć o:
+
+1. **html** – służącym do opisu struktury informacji zawartych na stronach internetowych,
+2. **Tex** (Latex) – poznany na zajęciach język do „profesjonalnego” składania tekstów,
+3. **XML** ( _Extensible Markup Language)_ - uniwersalnym języku znaczników przeznaczonym do
+    reprezentowania różnych danych w ustrukturalizowany sposób.

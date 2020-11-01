@@ -41,8 +41,8 @@ umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można ws
 Przykład kodu html i jego interpretacja w przeglądarce:  
 
 <img style="float:right" src="1.png">
-
-<\!DOCTYPE **html**>  
+```html
+<!DOCTYPE **html**>  
 <**html**>  
 <**head**>  
 <**meta** <span style="color:darkblue">charset</span><span style="color:lighgreen">=</span><span style="color:orange">"utf-8"</span><span style="color:lightgreen"> /</span>>  
@@ -52,7 +52,7 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 <**p**> Jakiś paragraf tekstu<<span style="color:lightgreen">/</span>**p**>  
 <<span style="color:lightgreen">/</span>**body**>  
 <<span style="color:lightgreen">/</span>**html**>  
-
+``
 
 Przykład kodu Latex i wygenerowanego pliku w formacie pdf:  
 

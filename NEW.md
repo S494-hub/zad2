@@ -10,8 +10,7 @@
 <body>  
 <p> Jakiś paragraf tekstu</p>  
 </body>  
-</div>
-</html> 
+</html>  
 ```
-
-<img style="float:left" src="1.png">
+</div>  
+<img style="float:left" src="1.png">  

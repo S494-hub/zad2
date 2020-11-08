@@ -159,3 +159,12 @@ Listy nienumerowane definiujemy znakami: *,+,-
   margin-left: auto;
   margin-right: auto;
   width: 50%;" src="5.png"> 
+
+### Tabele
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="6.png">
+
+Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:

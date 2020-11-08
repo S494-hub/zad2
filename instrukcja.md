@@ -184,3 +184,10 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 internetowych
 
 ![](logo.png) – obraz z lokalnych zasobów
+
+### Kod źródłowy dla różnych języków programowania
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="7.png">

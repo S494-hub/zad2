@@ -43,18 +43,18 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 <img style="float:right;" src="1.png">
 
 
-<\!DOCTYPE **html**>  
-<**html**>  
-<**head**>  
-<**meta** <span style="color:darkblue">charset</span><span style="color:lighgreen">=</span><span style="color:orange">"utf-8"</span><span style="color:lightgreen"> /</span>>  
-\<<span style="color:darkblue">title</span>>Przykład\<<span style="color:lightgreen">/</span><span style="color:darkblue">title</span>>  
-<<span style="color:lightgreen">/</span>**head**>  
-<**body**>  
-<**p**> Jakiś paragraf tekstu<<span style="color:lightgreen">/</span>**p**>  
-<<span style="color:lightgreen">/</span>**body**>  
-<<span style="color:lightgreen">/</span>**html**>  
-
-
+```html:
+<!DOCTYPE html>  
+<html>  
+<head>  
+<meta charset="utf-8"/>  
+<title>Przykład</title>  
+</head>  
+<body>  
+<p> Jakiś paragraf tekstu</p>  
+</body>  
+</html>  
+```
 Przykład kodu Latex i wygenerowanego pliku w formacie pdf:  
 
 

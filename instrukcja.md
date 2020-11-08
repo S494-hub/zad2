@@ -130,3 +130,14 @@ i tak w 2016 r. opublikowano dokument <span style="color:#871F78"><ins>RFC 7764<
 Podany link: <ins>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet </ins>zawiera opis
 podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki
 opis w języku polskim.
+
+### Definiowanie nagłówków
+
+W tym celu używamy znaku kratki
+
+Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="3.png">  

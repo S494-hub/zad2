@@ -141,3 +141,14 @@ Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
   margin-left: auto;
   margin-right: auto;
   width: 50%;" src="3.png">  
+
+### Definiowanie list
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="4.png">    
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+
+Listy nienumerowane definiujemy znakami: *,+,-

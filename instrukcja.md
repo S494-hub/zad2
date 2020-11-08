@@ -124,3 +124,9 @@ i tak w 2016 r. opublikowano dokument <span style="color:#871F78"><ins>RFC 7764<
 - CommonMark,
 - GitHub Flavored Markdown (GFM),
 - Markdown Extra.
+
+## Podstawy składni
+
+Podany link: <ins>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet </ins>zawiera opis
+podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki
+opis w języku polskim.

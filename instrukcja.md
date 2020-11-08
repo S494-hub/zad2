@@ -191,3 +191,10 @@ internetowych
   margin-left: auto;
   margin-right: auto;
   width: 50%;" src="7.png">
+
+### Tworzenie spisu treści na podstawie nagłówków
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="8.png">

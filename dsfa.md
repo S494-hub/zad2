@@ -42,7 +42,7 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 
 <img style="float:right;" src="1.png">
 
-
+<div style="left">
 ```html:
 <!DOCTYPE html>  
 <html>  
@@ -55,6 +55,10 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 </body>  
 </html>  
 ```
+ </div>
+ 
+    <img style="float:right;" src="1.png">
+    <div style="clear:both"></div>
 Przykład kodu Latex i wygenerowanego pliku w formacie pdf:  
 
 

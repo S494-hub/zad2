@@ -168,3 +168,13 @@ Listy nienumerowane definiujemy znakami: *,+,-
   width: 50%;" src="6.png">
 
 Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
+
+### Odnośniki do zasobów
+
+[odnośnik do zasobów](www.gazeta.pl)
+
+[odnośnik do pliku](LICENSE.md)
+
+[odnośnik do kolejnego zasobu][1]
+
+[1]: [http://google,com](http://google,com)
